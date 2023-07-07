@@ -1,0 +1,1 @@
+docker buildx build -t fmartinf/maxscale /home/fmartinf/ftp/files/maxscale
